@@ -9,6 +9,7 @@
     "lint": "eslint"
   },
   "dependencies": {
+    "i18next": "^26.0.3",
     "next": "16.2.2",
     "phaser": "^3.90.0",
     "react": "19.2.4",
